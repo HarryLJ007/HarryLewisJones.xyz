@@ -49,13 +49,21 @@
     "uniqCompNum": 7,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/normal-128x128.png",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://harrylewisjones.xyz",
+    "sitemapSwitcherAuto": "on",
+    "robotsSwitcher": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "HarryLewisJones.xyz",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
